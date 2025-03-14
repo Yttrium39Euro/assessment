@@ -38,6 +38,7 @@ assessmentButton.addEventListener(
     resultDivision.appendChild(headerDivision);
     resultDivision.appendChild(bodyDivision);
     
+    
     // ツイートエリアの作成
     tweetDivision.innerText = '';
     const anchor = document.createElement('a');
